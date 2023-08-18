@@ -1,0 +1,35 @@
+/*
+ * GSM 07.10 Implementation with User Space Serial Ports
+ *
+ * Code heavily based on gsmMuxd written by
+ * Copyright (C) 2003 Tuukka Karvonen <tkarvone@iki.fi>
+ * Modified November 2004 by David Jander <david@protonic.nl>
+ * Modified January 2006 by Tuukka Karvonen <tkarvone@iki.fi>
+ * Modified January 2006 by Antti Haapakoski <antti.haapakoski@iki.fi>
+ * Modified March 2006 by Tuukka Karvonen <tkarvone@iki.fi>
+ * Modified October 2006 by Vasiliy Novikov <vn@hotbox.ru>
+ *
+ * Copyright (C) 2008 M. Dietrich <mdt@emdete.de>
+ * Modified January 2009 by Ulrik Bech Hald <ubh@ti.com>
+ *
+ * Modified February 2018 by Bilal Ahmed <bilal.ahmed@u-blox.com>
+ * Modified May 2018 by Uzair Afzal <uzair.afzal@u-blox.com>
+ * Modified September 2018 by Muhammad Awais <muhammad.awais@u-blox.com>
+ * Modified February 2019 by Muhammad Awais <muhammad.awais@u-blox.com>
+ * Modified April 2020 by Muhammad Awais <muhammad.awais@u-blox.com>
+ * Modified June 2020 by Bilal Ahmed <bilal.ahmed@u-blox.com>
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * as published by the Free Software Foundation; either version 2
+ * of the License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+ */
